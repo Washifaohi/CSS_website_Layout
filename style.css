@@ -1,0 +1,57 @@
+/* Style of header*/
+.header {
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* End of header */
+
+/* Style of navigation*/
+.navigation {
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+
+.navigation a {
+    color: black;
+    padding: 0px 20px;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.55s;
+}
+
+.navigation a:hover {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+/* End of navigation */
+
+/* Start of contant */
+
+.column{
+    float: left;
+    width: 33.33%;
+}
+
+.contant{
+    content: "";
+    clear: both;
+}
+
+/* End of contant */
+
+/* Style of footer*/
+.footer {
+    padding-top: 20px;
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* End of footer */
